@@ -28,4 +28,4 @@ Hay un seeder (database\seeders\PersonasSeeder.php) para simular el registro de 
 
 ### Página "Lista de personas"
 
-![Lista de personas con seeder](public/images/screenshots/screenshot-lista.png)
+![Pagina lista de personas](public/images/screenshots/screenshot-lista.png)
