@@ -7,7 +7,7 @@ Un sitio web para hacer un registro básico de personas, programado en Laravel.
 
 ### Página de inicio:
 
-![Pagina de inicio](images/screenshots/screenshot-inicio.png)
+![Pagina de inicio](public/images/screenshots/screenshot-inicio.png)
 
 En esta página se completa el formulario, y luego saldrá una notificación de que se ha añadido la información a la lista de personas.
 
