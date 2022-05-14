@@ -128,7 +128,7 @@
     <div class="lateralform">
         <p>* Los campos que llevan el asterisco son requeridos para enviar el formulario.</p>
         <br>
-        <p>Los datos del DNI, email, y el telefono son unicos; no puede haber dos personas con 
+        <p>Los datos del DNI, email, y el telefono son únicos; no puede haber dos personas con 
             el mismo valor de dichos campos.</p>
         <br>
         <br>
