@@ -1,7 +1,11 @@
 # censo-laravel
 Un sitio web para hacer un registro básico de personas, programado en Laravel.
 
-**Versión 1.0**
+---
+
+**Versión 1.1**
+
+- Modificación de seed por faker
 
 ---
 

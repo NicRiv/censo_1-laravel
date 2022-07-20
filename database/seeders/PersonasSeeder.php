@@ -43,6 +43,6 @@ class PersonasSeeder extends Seeder
         ];
 
         // php artisan db:seed --class=PersonasSeeder
-        DB::table('people')->insert($datos);
+        // DB::table('people')->insert($datos);
     }
 }
